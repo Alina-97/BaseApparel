@@ -1,0 +1,242 @@
+.box1
+{
+    border: 1px solid palevioletred;
+    background-color: palevioletred;
+    height: 30px;
+}
+ul 
+{
+    float:left;
+    color: white;
+}
+ul li
+{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 300%;
+    width: 100px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+ul li a 
+{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h5
+{
+    margin-top: 2px;
+    color:white;
+    margin: 7px 12px;
+    position: relative;
+    left: -19%;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: normal;
+}
+.subbox
+{
+    border: 2px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+}
+
+ol
+{
+    float: left;
+}
+
+ol li
+{
+    float: left;
+    width: 90px;
+    position: relative;
+    left: 25%;
+    list-style-type: none;
+    font-size: 18px;
+    padding-left: 12px;
+}
+ol li a 
+{
+    text-decoration: none;
+    color: palevioletred;
+}
+ol li a:hover
+{
+    border-bottom: 4px solid palevioletred;
+}
+
+.icon
+{
+    position: absolute;
+    left: 60%;
+    top: 9%;
+
+}
+svg
+{
+  
+    float: right;
+    left: -310%;
+    margin-left: 100px;
+    margin: 7px 12px;
+    margin-top: -20px;
+    position: relative;
+    top: 9%;
+}
+
+h2
+{
+    float: left;
+    left: -42%;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin-left: 150px;
+    margin: 7px 12px;
+    margin-top: -45px;
+    font-weight: normal;
+    letter-spacing: 3px;
+  
+}
+
+
+.cover img
+{
+    float: right;
+   
+    margin-right: 1px;
+    height: 450px;;
+
+}
+h1
+{
+    padding-top: 15px;
+    font-size: 60px;
+    font-weight: normal;
+    color: rgb(143, 120, 129);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif ;
+
+}
+p
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: rgb(199, 118, 130);
+}
+
+form
+{
+    text-align: center;
+}
+
+.box3
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+    
+}
+ 
+  input[type=submit] {
+    background-color:palevioletred;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+ 
+  input[type=submit]:hover {
+    background-color: palevioletred;
+  }
+  
+ 
+  .container {
+    border-radius: 5px;
+    
+    padding: 20px;
+  }
+
+.imag1
+{
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+    
+}
+.imag1:hover
+{
+    box-shadow: 1px 3px 9px;
+}
+
+h6
+{
+    color: black;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    border: 1px solid whitesmoke;
+    width: 300px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+
+}
+.imag2
+{
+    position: absolute;
+    left: 55%;
+    top: 30%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+.imag2:hover
+{
+    box-shadow: 1px 3px 9px;
+}
+
+h
+{
+    color: black;
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    border: 1px solid whitesmoke;
+    width: 300px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(192, 189, 192);
+    text-align: center;
+    height: 40px;
+    padding-top: 15px;
+    word-spacing: 4px;
+    
+    
+ }
+
